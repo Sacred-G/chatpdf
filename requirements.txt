@@ -1,0 +1,10 @@
+poppler-utils
+streamlit
+streamlit_chat
+langchain
+openai
+faiss-cpu
+pypdf
+tiktoken
+pdfplumber
+pdf2image
